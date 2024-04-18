@@ -8,12 +8,9 @@
      xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
     <owl:Ontology rdf:about="https://github.com/sap218/CelestialObject/blob/master/space.owl">
-        <rdfs:comment>An Ontology for Space</rdfs:comment>
-        <rdfs:contributor>N/A</rdfs:contributor>
         <rdfs:creator>Samantha Pendleton</rdfs:creator>
         <rdfs:github>https://github.com/sap218/CelestialObject</rdfs:github>
         <rdfs:label>Space Ontology (UFO)</rdfs:label>
-        <rdfs:license>https://creativecommons.org/licenses/by/3.0/</rdfs:license>
         <rdfs:version>version 0.0.1</rdfs:version>
     </owl:Ontology>
     
@@ -289,7 +286,7 @@
 
     <owl:Class rdf:about="https://github.com/sap218/CelestialObject/blob/master/space.owl#UFO_00015">
         <rdfs:subClassOf rdf:resource="https://github.com/sap218/CelestialObject/blob/master/space.owl#UFO_00004"/>
-        <rdfs:label xml:lang="en">Inner Solar System</rdfs:label>
+        <rdfs:label xml:lang="en">Inner System</rdfs:label>
     </owl:Class>
     
 
@@ -298,7 +295,7 @@
 
     <owl:Class rdf:about="https://github.com/sap218/CelestialObject/blob/master/space.owl#UFO_00016">
         <rdfs:subClassOf rdf:resource="https://github.com/sap218/CelestialObject/blob/master/space.owl#UFO_00004"/>
-        <rdfs:label xml:lang="en">Outer Solar System</rdfs:label>
+        <rdfs:label xml:lang="en">Outer System</rdfs:label>
     </owl:Class>
     
 
@@ -741,7 +738,7 @@
                 <owl:someValuesFrom rdf:resource="https://github.com/sap218/CelestialObject/blob/master/space.owl#UFO_00031"/>
             </owl:Restriction>
         </rdfs:subClassOf>
-        <rdfs:label xml:lang="en">Hemisphere Constellations</rdfs:label>
+        <rdfs:label xml:lang="en">Hemisphere</rdfs:label>
     </owl:Class>
     
 
@@ -750,7 +747,7 @@
 
     <owl:Class rdf:about="https://github.com/sap218/CelestialObject/blob/master/space.owl#UFO_00047">
         <rdfs:subClassOf rdf:resource="https://github.com/sap218/CelestialObject/blob/master/space.owl#UFO_00046"/>
-        <rdfs:label xml:lang="en">Northern Hemisphere Constellations</rdfs:label>
+        <rdfs:label xml:lang="en">Northern</rdfs:label>
     </owl:Class>
     
 
@@ -759,7 +756,7 @@
 
     <owl:Class rdf:about="https://github.com/sap218/CelestialObject/blob/master/space.owl#UFO_00048">
         <rdfs:subClassOf rdf:resource="https://github.com/sap218/CelestialObject/blob/master/space.owl#UFO_00046"/>
-        <rdfs:label xml:lang="en">Southern Hemisphere Constellations</rdfs:label>
+        <rdfs:label xml:lang="en">Southern</rdfs:label>
     </owl:Class>
     
 
