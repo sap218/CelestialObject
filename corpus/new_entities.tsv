@@ -1,0 +1,6 @@
+class	annotation	tag
+eclipse	UFO_0045	rdfs:subClassOf
+eclipse	https://science.nasa.gov/eclipses/	rdfs:seeAlso
+eclipse	WD:Q141022	ns1:DbXref
+eclipse	when a celestial object is temporary hidden by another object  	rdfs:comment
+eclipse	darkening	UFO:hasSynonym
