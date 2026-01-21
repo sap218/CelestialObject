@@ -1,6 +1,12 @@
 # CelestialObject
 
-A simple ontology for Space.
++ A simple ontology for Space.
+
++ Read the blog post here: [come back soon].
+
++ `space.owl`
+
+![plot](/plots/web-plot.png)
 
 ***
 
