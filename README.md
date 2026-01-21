@@ -6,7 +6,7 @@
 
 + `space.owl`
 
-![plot](/plots/web-plot.png)
+![plot](/plot/web-plot.png)
 
 ***
 
